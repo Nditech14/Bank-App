@@ -1,0 +1,15 @@
+C:\Users\Decagon L\source\repos\OneBank\OneBank\bin\Debug\net7.0\OneBank.exe
+C:\Users\Decagon L\source\repos\OneBank\OneBank\bin\Debug\net7.0\OneBank.deps.json
+C:\Users\Decagon L\source\repos\OneBank\OneBank\bin\Debug\net7.0\OneBank.runtimeconfig.json
+C:\Users\Decagon L\source\repos\OneBank\OneBank\bin\Debug\net7.0\OneBank.dll
+C:\Users\Decagon L\source\repos\OneBank\OneBank\bin\Debug\net7.0\OneBank.pdb
+C:\Users\Decagon L\source\repos\OneBank\OneBank\obj\Debug\net7.0\OneBank.csproj.AssemblyReference.cache
+C:\Users\Decagon L\source\repos\OneBank\OneBank\obj\Debug\net7.0\OneBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon L\source\repos\OneBank\OneBank\obj\Debug\net7.0\OneBank.AssemblyInfoInputs.cache
+C:\Users\Decagon L\source\repos\OneBank\OneBank\obj\Debug\net7.0\OneBank.AssemblyInfo.cs
+C:\Users\Decagon L\source\repos\OneBank\OneBank\obj\Debug\net7.0\OneBank.csproj.CoreCompileInputs.cache
+C:\Users\Decagon L\source\repos\OneBank\OneBank\obj\Debug\net7.0\OneBank.dll
+C:\Users\Decagon L\source\repos\OneBank\OneBank\obj\Debug\net7.0\refint\OneBank.dll
+C:\Users\Decagon L\source\repos\OneBank\OneBank\obj\Debug\net7.0\OneBank.pdb
+C:\Users\Decagon L\source\repos\OneBank\OneBank\obj\Debug\net7.0\OneBank.genruntimeconfig.cache
+C:\Users\Decagon L\source\repos\OneBank\OneBank\obj\Debug\net7.0\ref\OneBank.dll
